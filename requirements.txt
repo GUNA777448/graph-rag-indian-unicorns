@@ -1,0 +1,16 @@
+# Graph RAG for Indian Unicorn Startups
+# Python dependencies
+
+# Core
+streamlit>=1.28.0
+pandas>=2.0.0
+requests>=2.31.0
+
+# Database
+neo4j>=5.14.0
+
+# Data processing
+kagglehub>=0.2.0
+
+# Development
+python-dotenv>=1.0.0
